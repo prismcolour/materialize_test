@@ -28,6 +28,7 @@ h1 {
 }
 
 
+
 .btn {
     background-color: #2196f3;   
 		&:hover {
@@ -35,6 +36,12 @@ h1 {
 	}
 }
 
+.reset {
+  .row {
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+}
 
 .dropdown-content li:hover, .dropdown-content li.active, .dropdown-content li.selected {
   background-color: #eee; }
