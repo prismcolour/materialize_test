@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+materialize css settings - basic setup
 
-Things you may want to cover:
+added normalize css
 
-* Ruby version
+updated container settings
 
-* System dependencies
+looks/responds to the same dimensions as Bootstrap's grid system 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+footer needs additional css to stay fixed
