@@ -4,6 +4,10 @@
  *= require_self
  */
 
+* {
+  box-sizing: border-box;
+}
+
  @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
  @import "materialize/components/color";
  $primary-color: color("blue", "lighten-2") !default;
